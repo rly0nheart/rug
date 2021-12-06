@@ -18,6 +18,8 @@ pip install -r requirements.txt
 ```
 python rug
 ```
+![rug-1](https://user-images.githubusercontent.com/74001397/144922076-f5be9619-26fa-4fbc-be77-038dbd23dbe7.gif)
+
 
 Or 
 ```
