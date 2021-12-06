@@ -1,0 +1,27 @@
+#!/usr/bin/env python3
+
+import os
+import sys
+import argparse
+from datetime import datetime
+sys.path.append(os.getcwd()+"/.lib/")
+sys.path.append(os.getcwd()+"/.src/")
+from main import User, args, start
+from colors import red, white, green, reset
+
+if __name__ == "__main__":
+    while True:
+    	try:
+    		User(args).on_connection()
+    		if args.verbose:
+    			exit(f"\n{white}[{green}-{white}] Stopped in {green}{datetime.now()-start}{white} seconds.{reset}")
+    		break
+    		
+    	except KeyboardInterrupt:
+    		if args.verbose:
+    			exit(f"\n{white}[{red}-{white}] Interrupted with {red}Ctrl{white}+{red}C{reset}")
+    		break
+    		
+    	except Exception as e:
+    		if args.verbose:
+    			print(f"{white}[{red}!{white}] Error: {red}{e}{reset}")
