@@ -27,6 +27,8 @@ chmod +x rug
 ```
 ./rug
 ```
+![rug-2](https://user-images.githubusercontent.com/74001397/144921671-79610c29-d694-4cdb-b77d-35c598af7f80.gif)
+
 
 > **Note**: use flag *-v* to enable **verbosity**, showing network *logs*, *errors*, and *notices*.
 
