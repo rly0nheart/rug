@@ -50,10 +50,9 @@ chmod +x rug
 * [randomuser](https://randomuser.me)
 * [tinyurl](https://tinyurl.com)
 
-# About author
+# About me
 * [About.me](https://about.me/rlyonheart)
 
-# Contact author
-* [Github](https://github.com/rlyonheart)
-
+# Contact me
+* [Gitlab](https://gitlab.com/rlyonheart)
 * [Twitter](https://twitter.com/rly0nheart)
