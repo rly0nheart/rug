@@ -36,17 +36,19 @@ chmod +x rug
 
 
 # Arguments
-| Flag          |MetaVar|                 Usage|
-| ------------- |:----------------------:|:---------:|
-| <code>-r/--results</code>      |   **[NUMBER]** |  *results count (default is 10)*  |
-| <code>-n/--nationality</code>  |  **[NATIONALIT(Y)(IES)]**  |  *specify nationalit(y)(ies). If more than one, they ahould be seperated by a coma(es, gb, af, us, eu). Default takes all available nationalities*  |
-| <code>-v/--verbose</code>  |    |  *[RECOMMENDED] enable verbosity (show network logs, errors, and notices)*  |
+| Flag          | Usage|
+| ------------- |:---------:|
+| <code>-r/--results</code>      |   *[OPTIONAL] results count (default is 10)*  |
+| <code>-n/--nationality</code>  |  *[OPTIONAL] specify nationalit(y)(ies). If more than one, they ahould be seperated by a coma(es, gb, af, us, eu). Default takes all available nationalities*  |
+| <code>-uS/--url-shortener</code>  |  *[OPTIONAL] if passed, all urls in results will be shortened*  |
+| <code>-v/--verbose</code>  |  *[RECOMMENDED] enable verbosity (show network logs, errors, and notices)*  |
 
 # LICENSE
 ![license](https://user-images.githubusercontent.com/74001397/137917929-2f2cdb0c-4d1d-4e4b-9f0d-e01589e027b5.png)
 
 # API
-[randomuser.me](https://randomuser.me)
+* [randomuser](https://randomuser.me)
+* [tinyurl](https://tinyurl.com)
 
 # About author
 * [About.me](https://about.me/rlyonheart)
