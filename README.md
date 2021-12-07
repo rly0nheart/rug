@@ -32,7 +32,7 @@ chmod +x rug
 ![rug-2](https://user-images.githubusercontent.com/74001397/144921671-79610c29-d694-4cdb-b77d-35c598af7f80.gif)
 
 
-> **Note**: use flag *-v* to enable **verbosity**, showing network *logs*, *errors*, and *notices*.![rug-3](https://user-images.githubusercontent.com/74001397/144922475-fbde51d8-d74c-4fd0-9a9a-f08461315d60.gif)
+> **Note**: It is recommended that user(s) pass argument *-v* to enable **verbosity**, showing network *logs*, *errors*, and *notices*.![rug-3](https://user-images.githubusercontent.com/74001397/144922475-fbde51d8-d74c-4fd0-9a9a-f08461315d60.gif)
 
 
 # Arguments
