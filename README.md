@@ -53,7 +53,3 @@ $ ./rug
 
 # About me
 * [About.me](https://about.me/rlyonheart)
-
-# Contact me
-* [Gitlab](https://gitlab.com/rlyonheart)
-* [Twitter](https://twitter.com/rly0nheart)
