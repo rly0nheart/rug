@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Rug", "Rug\Rug.vbproj", "{56BE16C4-B787-4667-92A4-6E89528DD134}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RugSetup", "RugSetup\RugSetup.vdproj", "{4B10DC4B-49B6-42FE-9F86-6888D5E03F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56BE16C4-B787-4667-92A4-6E89528DD134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BE16C4-B787-4667-92A4-6E89528DD134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BE16C4-B787-4667-92A4-6E89528DD134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BE16C4-B787-4667-92A4-6E89528DD134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B10DC4B-49B6-42FE-9F86-6888D5E03F24}.Debug|Any CPU.ActiveCfg = Debug
+		{4B10DC4B-49B6-42FE-9F86-6888D5E03F24}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90A3B96-CE3F-4A27-A393-49703ED11DE2}
+	EndGlobalSection
+EndGlobal
