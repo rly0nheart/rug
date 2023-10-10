@@ -15,6 +15,12 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_51AD0EDB155E46128A11259E02AAEA1B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_5D107DF1965442D58F3F1DA171A5165C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -85,6 +91,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -116,6 +130,26 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_51AD0EDB155E46128A11259E02AAEA1B"
+            {
+            "SourcePath" = "8:..\\Rug\\LICENSE.rtf"
+            "TargetName" = "8:LICENSE.rtf"
+            "Tag" = "8:"
+            "Folder" = "8:_7C38C7002B0F4B09AD22669C22DA6387"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5D107DF1965442D58F3F1DA171A5165C"
             {
             "SourcePath" = "8:..\\Rug\\Resources\\icon48x48.ico"
@@ -193,7 +227,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Rug"
         "ProductCode" = "8:{E339C15E-2D3D-4075-80A7-6A04105F4D0D}"
-        "PackageCode" = "8:{8B598D23-2505-44D8-96DD-F0ED5037EDD0}"
+        "PackageCode" = "8:{D149925F-9A98-4462-B7F9-244ABD1E6EAF}"
         "UpgradeCode" = "8:{F1FE0E37-2CAE-409D-9A49-CE3E9C35BF50}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -445,7 +479,8 @@
                             "Type" = "3:6"
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
-                            "Setting" = "3:0"
+                            "Setting" = "3:2"
+                            "Value" = "8:_51AD0EDB155E46128A11259E02AAEA1B"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "Sunken"
@@ -575,7 +610,8 @@
                             "Type" = "3:6"
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
-                            "Setting" = "3:0"
+                            "Setting" = "3:2"
+                            "Value" = "8:_51AD0EDB155E46128A11259E02AAEA1B"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "Sunken"
