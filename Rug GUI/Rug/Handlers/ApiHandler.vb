@@ -75,6 +75,6 @@ Public Class ApiHandler
     ''' Asynchronously fetches the program's update information from GitHub.
     ''' <summary>
     Public Async Function AsyncGetUpdates() As Task(Of JObject)
-        Return Await AsyncGetData(endpoint:="https://api.github.com/repos/rly0nheart/reddit-post-scraping-tool/releases/latest")
+        Return Await AsyncGetData(endpoint:="https://api.github.com/repos/rly0nheart/rug/releases/latest")
     End Function
 End Class
