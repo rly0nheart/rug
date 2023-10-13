@@ -8,56 +8,17 @@
 A free, open-source tool for generating random user data. Like Lorem Ipsum, but for people.
 
 # Installation
-Clone project:
-```
-$ git clone https://github.com/rlyonheart/rug.git
-```
+1. Download the latest setup files from the [releases](https://github.com/rly0nheart/rug/releases/latest) page.
+2. Extract the downloaded .zip file.
+3. Run the `setup.exe` if you don't have the .NET Desktop Runtime installed, this will install it first then install Rug.
+   > If you have the .NET Desktop Runtime installed, you can just run the `RugSetup.msi`, and follow the on-screen instructions.
 
-```
-$ cd rug
-```
-
-```
-$ pip install -r requirements.txt
-```
-
-# Usage
-```
-$ python rug
-```
-![rug-1](https://user-images.githubusercontent.com/74001397/144922076-f5be9619-26fa-4fbc-be77-038dbd23dbe7.gif)
-
-
-Or 
-```
-$ chmod +x rug
-```
-
-```
-$ ./rug![2023-10-13_20-15_1](https://github.com/rly0nheart/rug/assets/74001397/32084901-88b0-47f7-b4ae-ccbcbe4b7e00)
-
-```
-![rug-2](https://user-images.githubusercontent.com/74001397/144921671-79610c29-d694-4cdb-b77d-35c598af7f80.gif)
-
-
-> **Note**: It is recommended that user(s) pass argument *-v* to enable **verbosity**, showing network *logs*, *errors*, and *notices*.
-![rug-3](https://user-images.githubusercontent.com/74001397/144922475-fbde51d8-d74c-4fd0-9a9a-f08461315d60.gif)
-
-
-# Arguments
-| Flag          | Usage|
-| ------------- |:---------:|
-| <code>-r/--results</code>      |   *[OPTIONAL] results count (default is 10)*  |
-| <code>-n/--nationality</code>  |  *[OPTIONAL] specify nationalit(y)(ies). If more than one, they ahould be seperated by a coma(es, gb, af, us, eu). Default takes all available nationalities*  |
-| <code>-uS/--url-shortener</code>  |  *[OPTIONAL] if passed, all urls in results will be shortened*  |
-| <code>-v/--verbose</code>  |  *[RECOMMENDED] enable verbosity (show network logs, errors, and notices)*  |
-
-# LICENSE
-![license](https://user-images.githubusercontent.com/74001397/137917929-2f2cdb0c-4d1d-4e4b-9f0d-e01589e027b5.png)
-
+## Note
+> Rug's UI theme will depend on the user's system theme settings.
 # API
 * [randomuser](https://randomuser.me)
-* [tinyurl](https://tinyurl.com)
 
-# About me
-* [About.me](https://about.me/rlyonheart)
+![license](https://user-images.githubusercontent.com/74001397/137917929-2f2cdb0c-4d1d-4e4b-9f0d-e01589e027b5.png)
+<a href="https://www.buymeacoffee.com/_rly0nheart"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=_rly0nheart&button_colour=40DCA5&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+![me](https://github.com/rly0nheart/tor2tor/assets/74001397/9f5a2b22-d98a-4be1-80be-8ad7c53c6fab)
