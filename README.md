@@ -1,3 +1,10 @@
+![2023-10-13_20-22](https://github.com/rly0nheart/rug/assets/74001397/cf00d5d9-6fb9-4fe2-9aac-e6dfbb56438e)
+![2023-10-13_20-23](https://github.com/rly0nheart/rug/assets/74001397/a56ab71c-8a01-4ba9-8aee-352150c75925)
+
+
+
+# Rug
+
 A free, open-source tool for generating random user data. Like Lorem Ipsum, but for people.
 
 # Installation
@@ -27,7 +34,8 @@ $ chmod +x rug
 ```
 
 ```
-$ ./rug
+$ ./rug![2023-10-13_20-15_1](https://github.com/rly0nheart/rug/assets/74001397/32084901-88b0-47f7-b4ae-ccbcbe4b7e00)
+
 ```
 ![rug-2](https://user-images.githubusercontent.com/74001397/144921671-79610c29-d694-4cdb-b77d-35c598af7f80.gif)
 
